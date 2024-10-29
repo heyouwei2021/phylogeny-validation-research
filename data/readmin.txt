@@ -1,2 +1,0 @@
-Paper data:paper.csv
-Product data:product.csv
