@@ -1,2 +1,2 @@
-validation product:cell_phone.ipynb
-validation paper:paper.ipynb
+product:APPLE_2001_2020_1_tangled_3_0.5_tree_mobile_highres.png
+paper:AI_Artificial Intelligence_1960_2019_content_5_tangled_3_0.4_network_with_legend_primary_topic.subfield.display_name.png
